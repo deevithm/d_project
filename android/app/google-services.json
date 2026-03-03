@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "189322491589",
+    "project_id": "snackly-grocery-app",
+    "storage_bucket": "snackly-grocery-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189322491589:android:f249cf5b0d480262e8e2ac",
+        "android_client_info": {
+          "package_name": "com.snackly.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFLupmXSpG9JlfGIBZcR4PiqLnv9DCn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
